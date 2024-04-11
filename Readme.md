@@ -1,0 +1,1 @@
+The S3 bucket for this project had been created via the management console on a personal account
